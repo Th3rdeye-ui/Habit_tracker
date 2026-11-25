@@ -21,17 +21,17 @@ A simple, beginner-friendly command-line habit tracker written in Python. Add ha
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/Th3rdeye-ui/Habit_tracker.git
+cd Habit_tracker
 ```
 
 ### Run
 
 ```bash
-python habit_tracker.py
+python Habit_tracker.ipynb
 ```
 
-> Replace `habit_tracker.py` with whatever your file is named.
+> Replace `Habit_tracker.ipynb` with whatever your file is named.
 
 ## 📖 Usage
 
